@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mesas_zona1/static/css/main.244d0467.css",
-    "main.js": "/mesas_zona1/static/js/main.5803f66d.js",
-    "static/js/453.6943a188.chunk.js": "/mesas_zona1/static/js/453.6943a188.chunk.js",
+    "main.js": "/mesas_zona1/static/js/main.1aad3010.js",
+    "static/js/453.a632cdc5.chunk.js": "/mesas_zona1/static/js/453.a632cdc5.chunk.js",
     "index.html": "/mesas_zona1/index.html",
     "main.244d0467.css.map": "/mesas_zona1/static/css/main.244d0467.css.map",
-    "main.5803f66d.js.map": "/mesas_zona1/static/js/main.5803f66d.js.map",
-    "453.6943a188.chunk.js.map": "/mesas_zona1/static/js/453.6943a188.chunk.js.map"
+    "main.1aad3010.js.map": "/mesas_zona1/static/js/main.1aad3010.js.map",
+    "453.a632cdc5.chunk.js.map": "/mesas_zona1/static/js/453.a632cdc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.244d0467.css",
-    "static/js/main.5803f66d.js"
+    "static/js/main.1aad3010.js"
   ]
 }
